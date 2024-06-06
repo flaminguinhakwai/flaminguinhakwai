@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome Ana Clara é nome sobrenome Luz
+Meu nome é Ana Clara sobrenome Luz
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
